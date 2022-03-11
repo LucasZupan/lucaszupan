@@ -3,12 +3,12 @@
 <br>
 <h2 align="left">Checkout my Work:</h2>
 <h3 align="left">POKEMON</h3>
-📌 Single Page Application developed that consumes an external API to bring random pokemons
+📌 Single Page Application developed that consumes an external API to bring random pokemons.
 
-<img align="left"  width= "350px" src='landing.png' />
-<img align="center" width= "350px" src='main.png' /> <br>
-<img align="left" width= "350px" src='create.png' />
-<img align="center"width= "350px" src='detail.png' /> <br>
+<img align="left"  width= "350px" src='https://github.com/LucasZupan/lucaszupan/blob/main/landing.PNG' />
+<img align="center" width= "350px" src='https://github.com/LucasZupan/lucaszupan/blob/main/main.PNG' /> <br>
+<img align="left" width= "350px" src='https://github.com/LucasZupan/lucaszupan/blob/main/create.PNG' />
+<img align="center"width= "350px" src='https://github.com/LucasZupan/lucaszupan/blob/main/detail.PNG' /> <br>
 <br>
 
 <h2 align="left">Languages and Tools:</h2><br>
