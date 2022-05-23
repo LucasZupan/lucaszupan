@@ -1,7 +1,7 @@
 <h1 align="left">Hi there👋, I'm Lucas</h1>
 <h3 align="left">A 30 years old Civil Engineer from Argentina who discovered a fascinating world while doing an intensive Full Stack Developer Bootcamp during the last months of 2021. The main technologies i learnt here are: JavaScript - React - Redux - HTML - CSS - NodeJS - Express - PostgreSQL - TypeScript and others.  </h3>
 <br>
-<h2 align="left">Checkout my Work:</h2>
+<h2 align="left">Check out my Work:</h2>
 <h3 align="left">POKEMON</h3>
 📌 Single Page Application developed that consumes an external API to bring random pokemons.
 
